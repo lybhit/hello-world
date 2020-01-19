@@ -1,0 +1,4 @@
+
+actionlib.SimpleActionClient("move_base", MoveBaseAction) 发布任务，监听状态，取消任务
+
+订阅超声波，激光雷达测距信息（障碍物监测），恰当发送停车，等待时间，取消任务，锁存当前任务，任务回滚
