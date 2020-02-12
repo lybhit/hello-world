@@ -1,0 +1,4 @@
+[Project]
+Name=heap_test
+Manager=KDevCMakeManager
+VersionControl=

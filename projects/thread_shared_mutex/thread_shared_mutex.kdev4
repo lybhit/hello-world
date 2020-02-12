@@ -1,0 +1,3 @@
+[Project]
+Name=thread_shared_mutex
+Manager=KDevCMakeManager

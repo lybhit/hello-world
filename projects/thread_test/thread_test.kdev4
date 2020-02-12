@@ -1,0 +1,4 @@
+[Project]
+Name=thread_test
+Manager=KDevCMakeManager
+VersionControl=

@@ -1,0 +1,4 @@
+[Project]
+Name=condition_variable_any_test
+Manager=KDevCMakeManager
+VersionControl=

@@ -1,0 +1,4 @@
+[Project]
+Name=scan_to_image
+Manager=KDevCMakeManager
+VersionControl=

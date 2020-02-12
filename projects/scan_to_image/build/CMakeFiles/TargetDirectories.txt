@@ -1,0 +1,3 @@
+/home/suirui/projects/scan_to_image/build/CMakeFiles/edit_cache.dir
+/home/suirui/projects/scan_to_image/build/CMakeFiles/rebuild_cache.dir
+/home/suirui/projects/scan_to_image/build/CMakeFiles/scan_to_image.dir
