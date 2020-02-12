@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/suirui/scripts/cv_test/test_1/image_show.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+
